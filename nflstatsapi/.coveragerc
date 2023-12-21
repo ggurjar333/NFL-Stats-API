@@ -1,0 +1,6 @@
+[run]
+source = nflstatsapi
+omit = 
+    tests/*
+    autoapp.py
+
